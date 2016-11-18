@@ -1,0 +1,17 @@
+{
+    "name": "trunksoftware/parameter",
+    "description": "TrunkSoftware Parameter Bag Component",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Narvydas Mekionis",
+            "email": "nm@trunknetworks.com"
+        }
+    ],
+    "require": {
+		"php": ">=5.5.9"
+	},
+	"autoload": {
+		"psr-4": { "TrunkSoftware\\Component\\Parameter\\": "" }
+	}
+}
