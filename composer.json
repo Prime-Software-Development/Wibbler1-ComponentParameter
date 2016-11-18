@@ -12,6 +12,6 @@
 		"php": ">=5.5.9"
 	},
 	"autoload": {
-		"psr-4": { "trunkSoftware\\Component\\Parameter\\": "" }
+		"psr-4": { "TrunkSoftware\\Component\\Parameter\\": "" }
 	}
 }
