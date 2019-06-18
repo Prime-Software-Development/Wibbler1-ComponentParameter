@@ -1,5 +1,5 @@
 <?php
-namespace TrunkSoftware\Component\Parameter;
+namespace Trunk\Component\Parameter;
 
 class ParameterBag implements \IteratorAggregate, \Countable {
 
