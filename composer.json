@@ -1,9 +1,8 @@
 {
-  "name": "trunk/parameter",
-  "description": "TrunkSoftware Parameter Bag Component",
-  "description": "TrunkSoftware PDF Generator from Twig",
-  "homepage": "http://www.trunknetworks.com",
+  "name": "primesoftwaredevelopment/parameter",
   "type": "library",
+  "description": "Prime Software Development Parameter Bag Component",
+  "homepage": "http://www.primesoftwaredevelopment.co.uk/",
   "authors": [
 	{
 	  "name": "Chris Weller",
